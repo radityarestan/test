@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testing push-3
-=======
-testing
->>>>>>> parent of f0c46af... second commit
+testing aja
